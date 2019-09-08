@@ -5,7 +5,7 @@ Testing Cuda Pytorch and run few examples
 
 Create environement with conda, check python version (python --version)
 ```
-conda create -n pytorchenv pip python==3.6
+conda create -n pytorchenv pip scikit-learn jupyter pandas python==3.7
 ```
 
 Activate virtual environment
