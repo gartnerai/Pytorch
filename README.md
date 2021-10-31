@@ -38,7 +38,7 @@ In my case with a Cuda version 9.1 the command is the following
 conda install -n pytorchenv pytorch torchvision cudatoolkit=9.0 -c pytorch
 ```
 
--n pytorchenv refers the environement in which we install the packages. We can avoid this instruction if we are inside the conda environment. 
+-n pytorchenv refers to the environement in which we install the packages. We can avoid this instruction if we are inside the conda environment. 
 
 
 ### Book
