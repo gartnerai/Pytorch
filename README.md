@@ -1,5 +1,5 @@
 # Pytorch
-Testing Cuda Pytorch and run few examples
+Testing Cuda Pytorch and run few examples to introduce the framework
 
 # Installation
 
