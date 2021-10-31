@@ -4,7 +4,7 @@ Testing Cuda Pytorch, add books and run few examples to introduce the framework
 
 # Installation
 
-Create environement with conda, check python version (python --version)
+Create environement with conda. Check python version (python --version)
 ```
 conda create -n pytorchenv pip scikit-learn jupyter pandas python==3.7
 ```
