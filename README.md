@@ -40,4 +40,8 @@ conda install -n pytorchenv pytorch torchvision cudatoolkit=9.0 -c pytorch
 -n pytorchenv refers the environement in which we install the packages. We can avoid this instruction if we are inside the conda environment. 
 
 
+### Book
+
+Deep Learning with Pytorch
+
 ```
