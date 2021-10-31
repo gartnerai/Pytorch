@@ -45,4 +45,9 @@ conda install -n pytorchenv pytorch torchvision cudatoolkit=9.0 -c pytorch
 
 Deep Learning with Pytorch
 
+### Contributions
+
+Feel free to contribute
+
 ```
+
